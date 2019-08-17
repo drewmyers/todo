@@ -12,6 +12,7 @@ Todo is a single-page to-do application features a fluid user interface that– 
 
 # Tech/Framework Used
 
+- Ruby on Rails 2.5.3
 - Git
 - Github
 - Postgresql
