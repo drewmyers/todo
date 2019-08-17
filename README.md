@@ -1,24 +1,29 @@
-# README
+# Todo
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Todo is a single-page to-do application features a fluid user interface that– by using JavaScript– allows users to rapidly add dynamic content.
 
-Things you may want to cover:
+# Todo Deployed
 
-* Ruby version
+- https://todo-drew-myers.herokuapp.com/
 
-* System dependencies
+# Screenshots
 
-* Configuration
 
-* Database creation
 
-* Database initialization
+# Tech/Framework Used
 
-* How to run the test suite
+- Git
+- Github
+- Postgresql
+- JSON
+- FactoryBot
+- Rspec
+- JavaScript
+- CSS
 
-* Services (job queues, cache servers, search engines, etc.)
+# How to Contribute
 
-* Deployment instructions
+If interested in contributing clone my repo: Add a pull request, or open an issue.
 
-* ...
+# Credit 
+- Drew Myers https://www.linkedin.com/in/drew-myers-70788a183/
