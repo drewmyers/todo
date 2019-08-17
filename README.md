@@ -8,7 +8,7 @@ Todo is a single-page to-do application features a fluid user interface that– 
 
 # Screenshots
 
-
+![todoster](https://user-images.githubusercontent.com/48326186/63217135-7d747d80-c10e-11e9-974f-192cdec0745f.png)
 
 # Tech/Framework Used
 
