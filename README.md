@@ -22,6 +22,10 @@ Todo is a single-page to-do application features a fluid user interface that– 
 - JavaScript
 - CSS
 
+# Issues
+
+Checkboxs will not show up in Google Chrome, but works in Safari.
+
 # How to Contribute
 
 If interested in contributing clone my repo: Add a pull request, or open an issue.
