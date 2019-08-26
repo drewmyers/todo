@@ -22,9 +22,12 @@ Todo is a single-page to-do application features a fluid user interface that– 
 - JavaScript
 - CSS
 
-# Issues
+# Installation
 
-Checkboxs will not show up in Google Chrome, but works in Safari.
+- Clone Repository
+- Run Bundle Install
+- Run rake db:create
+- Run rake db:migrate
 
 # How to Contribute
 
